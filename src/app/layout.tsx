@@ -1,0 +1,3 @@
+import type { Metadata } from 'next'; import '@fontsource-variable/archivo'; import './globals.css';
+export const metadata: Metadata = { title:'Central Vans | Peças para Hyundai HR e Kia Bongo', description:'Peças para Hyundai HR e Kia Bongo com envio imediato. Encontre peças de qualidade para vans e utilitários na Central Vans.', metadataBase:new URL('https://centralvans.com.br'), alternates:{canonical:'/'}, openGraph:{title:'Central Vans | Peças para vans e utilitários',description:'Especialistas em Hyundai HR e Kia Bongo com envio imediato.',url:'https://centralvans.com.br',siteName:'Central Vans',type:'website'} };
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="pt-BR"><body>{children}</body></html>}

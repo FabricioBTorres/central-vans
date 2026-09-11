@@ -1,0 +1,16 @@
+CENTRAL VANS - ASSETS
+
+Arquivos principais esperados pelo projeto:
+
+public/brand/central-vans-logo.png
+
+public/products/alternador.png
+public/products/bomba-oleo.png
+public/products/kit-embreagem.png
+public/products/radiador.png
+public/products/virabrequim.png
+
+Extra:
+public/brand/central-vans-logo-completo.png
+
+A logo principal foi preparada para uso no header, sem o slogan inferior.

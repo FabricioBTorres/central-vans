@@ -1,0 +1,1 @@
+export const company = { companyName: 'CENTRAL VANS', whatsapp: 'INSERIR_NUMERO_AQUI', phone: 'INSERIR_TELEFONE_AQUI', email: 'INSERIR_EMAIL_AQUI', address: 'Atendimento online para todo o Brasil', instagram: 'INSERIR_INSTAGRAM_AQUI' };
